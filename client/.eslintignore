@@ -1,0 +1,4 @@
+build/*
+gradle/*
+grails-app/*
+node_modules/*
